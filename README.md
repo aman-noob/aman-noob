@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aman-noob
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python for data analysis
-- 📫 How to reach me here
+- 💞️ I’m looking to collaborate on python, SQL, for data analysis project
+- 📫 How to reach me here- amanjha987@gmail.com
 
 <!---
 aman-noob/aman-noob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
